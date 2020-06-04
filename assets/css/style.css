@@ -3,7 +3,7 @@
     height: 75px;
     width: 275px;
     border: 0;
-    margin-left: 266px;
+    margin-left: 375px;
     margin-top: 30px;
     padding-top: 30px;
     padding-bottom: 0;
@@ -67,7 +67,7 @@ div.gallery {
 }
 
 #bio-image {
-    transform: rotate(90deg);
+    /* transform: rotate(90deg); */
     float: left;
     margin-right: 70px;
     margin-left: 70px;
@@ -147,6 +147,7 @@ input[type=submit] {
 }
 
 p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin-left: 49px;
     margin-right: 40px;
 }
